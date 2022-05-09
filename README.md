@@ -1,4 +1,5 @@
 ### Hi there, i'm Felipe👋
+<a href='https://twitter.com/felipertt1'> Twitter </a>
 
 <!--
 **FelipeRTT/FelipeRTT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
